@@ -14,8 +14,8 @@ jobs:
         with:
           python-version: '3'
       - name: Setup
-        run: ./bin/install.sh
+        run: /bin/install.sh
       - name: Sync w/ production DNS providers
-        run: ./bin/test.sh
+        run: /bin/test.sh
         env:
           HETZNER_TOKEN: ${{ secrets.HETZNER_TOKEN }}
