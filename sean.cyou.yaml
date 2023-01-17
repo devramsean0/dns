@@ -1,0 +1,16 @@
+---
+"algorave-downloader":
+  type: A
+  value: 173.249.16.207
+"otter":
+  type: A
+  value: 173.249.16.207
+"blahajcheckeruk":
+  type: CNAME
+  value: cname.vercel-dns.com.
+"foxdot-script":
+  type: CNAME
+  value: devramsean0.github.io.
+"scrapbook":
+  type: CNAME
+  value: cname.vercel-dns.com.

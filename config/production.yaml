@@ -1,0 +1,27 @@
+---
+providers:
+  config:
+    class: octodns.provider.yaml.YamlProvider
+    directory: ./
+    enforce_order: False
+#  cloudflare:
+#    class: octodns_cloudflare.CloudflareProvider
+#    # The api key (required)
+#    # Your Cloudflare account email address (required, optional if using token)
+#    email: env/CLOUDFLARE_EMAIL
+#    token: env/CLOUDFLARE_TOKEN
+  hetzner:
+    class: octodns_hetzner.HetznerProvider
+    token: env/HETZNER_TOKEN
+
+zones:
+  ikeastock.app.:
+    sources:
+      - config
+    targets:
+      - hetzner
+  sean.cyou.:
+    sources:
+      - config
+    targets:
+      - hetzner
