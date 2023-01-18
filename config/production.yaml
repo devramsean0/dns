@@ -25,3 +25,13 @@ zones:
       - config
     targets:
       - hetzner
+  ikeastock.xyz.:
+    sources:
+      - config
+    targets:
+      - hetzner
+  sean-outram.dev.:
+    sources:
+      - config
+    targets:
+      - hetzner
