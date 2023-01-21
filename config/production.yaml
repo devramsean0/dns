@@ -35,3 +35,8 @@ zones:
       - config
     targets:
       - hetzner
+  killedbylinusmediagroup.com.:
+    sources:
+      - config
+    targets:
+      - hetzner
