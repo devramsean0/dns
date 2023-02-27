@@ -17,3 +17,9 @@
 "pico-temp":
   type: CNAME
   value: devramsean0.github.io.
+"":
+  type: A
+  value: 76.76.21.21
+"www":
+  type: CNAME
+  value: cname.vercel-dns.com.
