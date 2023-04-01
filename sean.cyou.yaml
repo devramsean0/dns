@@ -17,6 +17,9 @@
 "pico-temp":
   type: CNAME
   value: devramsean0.github.io.
+"8bitproject":
+  type: CNAME
+  value: devramsean0.github.io.
 "":
   type: A
   value: 76.76.21.21
