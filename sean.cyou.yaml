@@ -25,7 +25,7 @@
   value: 76.76.21.21
 "chaos.school":
   type: CNAME
-  value: c6kglsbe.up.railway.app
+  value: c6kglsbe.up.railway.app.
 "www":
   type: CNAME
   value: cname.vercel-dns.com.
