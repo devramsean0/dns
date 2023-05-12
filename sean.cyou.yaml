@@ -1,4 +1,7 @@
 ---
+"_atproto.sean.cyou":
+  type: TXT
+  value: "did=did:plc:tqtp5t6nolc6vdgstdf4i5"
 "algorave-downloader":
   type: A
   value: 173.249.16.207
