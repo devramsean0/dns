@@ -14,6 +14,9 @@
 "foxdot-script":
   type: CNAME
   value: devramsean0.github.io.
+"git":
+  type: A
+  value: 152.67.143.62
 "scrapbook":
   type: CNAME
   value: cname.vercel-dns.com.
