@@ -11,6 +11,9 @@
 "blahajcheckeruk":
   type: CNAME
   value: cname.vercel-dns.com.
+"dedi":
+  type: A
+  value: 167.235.119.43
 "foxdot-script":
   type: CNAME
   value: devramsean0.github.io.
