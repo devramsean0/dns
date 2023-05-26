@@ -14,7 +14,7 @@
 "dedi":
   type: A
   value: 167.235.119.43
-"docs":
+"*.docs":
   type: A
   value: 167.235.119.40
 "foxdot-script":
