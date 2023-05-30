@@ -43,5 +43,5 @@ zones:
   onhcb.info:
     sources:
       - config
-    target:
+    targets:
       - hetzner
