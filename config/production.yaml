@@ -40,3 +40,8 @@ zones:
       - config
     targets:
       - hetzner
+  onhcb.info:
+    sources:
+      - config
+    target:
+      - hetzner
