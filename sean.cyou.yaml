@@ -44,3 +44,6 @@
 "www":
   type: CNAME
   value: cname.vercel-dns.com.
+"ts":
+  type: A
+  value: 150.230.117.150
