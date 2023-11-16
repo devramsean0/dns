@@ -14,18 +14,12 @@
 "blahajcheckeruk":
   type: CNAME
   value: cname.vercel-dns.com.
-"dedi":
-  type: A
-  value: 167.235.119.43
 "*.docs":
   type: A
   value: 167.235.119.40
 "foxdot-script":
   type: CNAME
   value: devramsean0.github.io.
-"git":
-  type: A
-  value: 167.235.119.43
 "scrapbook":
   type: CNAME
   value: cname.vercel-dns.com.
@@ -44,6 +38,3 @@
 "www":
   type: CNAME
   value: cname.vercel-dns.com.
-"ts":
-  type: A
-  value: 150.230.117.150
