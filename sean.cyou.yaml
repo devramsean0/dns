@@ -8,6 +8,9 @@
 "cv-generator":
   type: CNAME
   value: devramsean0.github.io.
+"dedi1":
+  type: A
+  value: 37.27.59.187
 "otter":
   type: A
   value: 173.249.16.207
