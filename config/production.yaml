@@ -45,7 +45,7 @@ zones:
       - config
     targets:
       - hetzner
-  hyperfocus.ing:
+  hyperfocus.ing.:
     sources:
       - config
     targets:
