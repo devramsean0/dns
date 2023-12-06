@@ -14,10 +14,8 @@ jobs:
         with:
           python-version: '3'
       - name: Install octodns
-        run: python -m pip install octodns octodns-hetzner octodns-cloudflare
+        run: python -m pip install octodns octodns-hetzner
       - name: Sync w/ production DNS providers
         run: octodns-sync --config-file=./config/production.yaml
         env:
           HETZNER_TOKEN: ${{ secrets.HETZNER_TOKEN }}
-          CLOUDFLARE_EMAIL: ${{ secrets.CLOUDFLARE_EMAIL }}
-          CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
