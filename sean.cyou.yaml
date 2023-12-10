@@ -25,6 +25,9 @@
   value: devramsean0.github.io.
 "grafana":
   type: A
+  value: 37.27.59.187
+"influxdb":
+  type: A
   value: 37.27.59.187 
 "scrapbook":
   type: CNAME
