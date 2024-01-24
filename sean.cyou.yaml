@@ -47,3 +47,6 @@
 "www":
   type: CNAME
   value: cname.vercel-dns.com.
+"status":
+  type: CNAME
+  value: devramsean0.github.io.
