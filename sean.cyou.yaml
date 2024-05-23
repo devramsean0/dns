@@ -50,3 +50,6 @@
 "status":
   type: CNAME
   value: devramsean0.github.io.
+"mtgchronicle":
+  type: CNAME
+  value: sean.hackclub.app.
