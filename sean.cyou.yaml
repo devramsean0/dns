@@ -55,4 +55,4 @@
   value: sean.hackclub.app.
 "docs":
   type: CNAME
-  value: cname.vercel-dns.com
+  value: cname.vercel-dns.com.
