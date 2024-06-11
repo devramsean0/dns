@@ -56,3 +56,24 @@
 "docs":
   type: CNAME
   value: cname.vercel-dns.com.
+
+# Mail.so
+"envelope":
+  - type: MX
+    priority: 10
+    value: feedback-smtp.us-east-1.amazonses.com.
+  - type: TXT
+    value: "v=spf1 include:amazonses.com ~all"
+"_dmarc":
+  type: TXT
+  value: "v=DMARC1; p=none;"
+"fg5ukvxafqsc3w3jqezhl5wcezripni5._domainkey":
+  type: CNAME
+  value: fg5ukvxafqsc3w3jqezhl5wcezripni5.dkim.amazonses.com.
+"i5looa35bl5kto3n57ke36x4qcfwsfud._domainkey":
+  type: CNAME
+  value: i5looa35bl5kto3n57ke36x4qcfwsfud.dkim.amazonses.com.
+"xkhgazy2ev77limtirrg4javqhqlcmr4._domainkey":
+  type: CNAME
+  value: xkhgazy2ev77limtirrg4javqhqlcmr4.dkim.amazonses.com.
+
