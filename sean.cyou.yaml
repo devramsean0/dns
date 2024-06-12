@@ -67,7 +67,7 @@
     value: "v=spf1 include:amazonses.com ~all"
 "_dmarc":
   type: TXT
-  value: "v=DMARC1; p=none;"
+  value: "v=DMARC1\; p=none\;"
 "fg5ukvxafqsc3w3jqezhl5wcezripni5._domainkey":
   type: CNAME
   value: fg5ukvxafqsc3w3jqezhl5wcezripni5.dkim.amazonses.com.
