@@ -56,6 +56,9 @@
 "docs":
   type: CNAME
   value: cname.vercel-dns.com.
+"splitpersonality": # Counterspell 2024 project
+  type: CNAME
+  value: devramsean0.github.io.
 
 # Mail.so
 "envelope":
