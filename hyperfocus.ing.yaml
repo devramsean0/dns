@@ -1,0 +1,23 @@
+---
+"":
+  - type: MX
+    values:
+      - preference: 2
+        value: 	route1.mx.cloudflare.net.
+      - preference: 41
+        value: route2.mx.cloudflare.net.
+      - preference: 53
+        value: route3.mx.cloudflare.net.
+  - type: TXT
+    value: "v=spf1 include:_spf.mx.cloudflare.net ~all"
+"is":
+  - type: MX
+    values:
+      - preference: 2
+        value: 	route1.mx.cloudflare.net.
+      - preference: 41
+        value: route2.mx.cloudflare.net.
+      - preference: 53
+        value: route3.mx.cloudflare.net.
+  - type: TXT
+    value: "v=spf1 include:_spf.mx.cloudflare.net ~all"

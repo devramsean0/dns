@@ -15,17 +15,7 @@ providers:
     token: env/HETZNER_TOKEN
 
 zones:
-  ikeastock.app.:
-    sources:
-      - config
-    targets:
-      - hetzner
   sean.cyou.:
-    sources:
-      - config
-    targets:
-      - hetzner
-  ikeastock.xyz.:
     sources:
       - config
     targets:
@@ -35,13 +25,13 @@ zones:
       - config
     targets:
       - cloudflare
-  killedbylinusmediagroup.com.:
-    sources:
-      - config
-    targets:
-      - hetzner
   onhcb.info.:
     sources:
       - config
     targets:
       - hetzner
+  hyperfocus.ing.:
+    sources:
+      - config
+    targets:
+      - cloudflare

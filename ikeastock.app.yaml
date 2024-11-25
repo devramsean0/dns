@@ -1,8 +1,0 @@
----
-"":
-  type: A
-  value: 76.76.21.21
-"www":
-  ttl: 1
-  type: CNAME
-  value: cname.vercel-dns.com.
