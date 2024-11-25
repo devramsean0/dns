@@ -5,7 +5,7 @@ providers:
     directory: ./
     enforce_order: False
   cloudflare:
-   class: octodns_cloudflare.CloudflareProvider
+    class: octodns_cloudflare.CloudflareProvider
     # The api key (required)
     # Your Cloudflare account email address (required, optional if using token)
     email: env/CLOUDFLARE_EMAIL
