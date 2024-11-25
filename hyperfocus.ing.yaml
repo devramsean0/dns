@@ -14,7 +14,7 @@
   - type: MX
     values:
       - preference: 2
-        value: 	route1.mx.cloudflare.net.
+        value: route1.mx.cloudflare.net.
       - preference: 41
         value: route2.mx.cloudflare.net.
       - preference: 53
