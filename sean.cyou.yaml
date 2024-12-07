@@ -59,7 +59,9 @@
 "splitpersonality": # Counterspell 2024 project
   type: CNAME
   value: devramsean0.github.io.
-
+"update-client.nixos.olp.school":
+  type: CNAME
+  value: ftphn1i6.up.railway.app.
 # Mail.so
 "envelope":
   - type: MX
