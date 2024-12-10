@@ -1,19 +1,17 @@
 ---
 "":
-  values:
-    - type: A
-      value: 76.76.21.21
-    - type: MX
-      priority: 27
+  - type: A
+    value: 76.76.21.21
+  - type: MX
+    values:
+    - preference: 2
       value: route1.mx.cloudflare.net.
-    - type: MX
-      priority: 69
+    - preference: 41
       value: route2.mx.cloudflare.net.
-    - type: MX
-      priority: 93
+    - preference: 53
       value: route3.mx.cloudflare.net.
-    - type: TXT
-      value: "v=spf1 include:_spf.mx.cloudflare.net ~all"
+  - type: TXT
+    value: "v=spf1 include:_spf.mx.cloudflare.net ~all"
 "www":
   type: CNAME
   value: cname.vercel-dns.com.
