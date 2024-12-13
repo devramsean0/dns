@@ -35,6 +35,9 @@
 "pico-temp":
   type: CNAME
   value: devramsean0.github.io.
+"mailjet._5c21a2da.home":
+  type: TXT
+  value: 5c21a2da89e33727f0b8c00722739216
 "8bitproject":
   type: CNAME
   value: devramsean0.github.io.
