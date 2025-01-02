@@ -65,6 +65,10 @@
 "update-client.nixos.olp.school":
   type: CNAME
   value: ftphn1i6.up.railway.app.
+# Old site revisions
+"v3":
+  type: CNAME
+  value: cname.vercel-dns.com.
 # Mail.so
 "envelope":
   - type: MX
