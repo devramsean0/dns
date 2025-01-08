@@ -49,10 +49,10 @@
     value: hosted-email-verify=scj5rhjb
   - type: MX
     preference: 10
-    value: aspmx1.migadu.com.
+    exchange: aspmx1.migadu.com.
   - type: MX
     preference: 20
-    value: aspmx2.migadu.com.
+    exchange: aspmx2.migadu.com.
   - type: TXT
     value: "v=spf1 include:spf.migadu.com -all"
 # Migadu/Custom email
