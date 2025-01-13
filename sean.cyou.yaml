@@ -67,7 +67,7 @@
   value: key3.sean.cyou._domainkey.migadu.com.
 "_dmarc":
   type: TXT
-  value: "v=DMARC1\; p=quarantine\;"
+  value: "v=DMARC1; p=quarantine;"
 # devices. custom email
 "devices":
   - type: A
