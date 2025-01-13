@@ -76,6 +76,7 @@
   - type: TXT
     values:
       - hosted-email-verify=6swqok1b
+      - v=spf1 include:spf.migadu.com -all
   - type: MX
     values:
       - preference: 10
