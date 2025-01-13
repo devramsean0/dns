@@ -76,7 +76,6 @@
   - type: TXT
     values:
       - hosted-email-verify=6swqok1b
-      - v=spf1 include:spf.migadu.com -all
   - type: MX
     values:
       - preference: 10
@@ -93,9 +92,6 @@
 "key3._domainkey.devices":
   type: CNAME
   value: key3.devices.sean.cyou._domainkey.migadu.com.
-"_dmarc.devices":
-  type: TXT
-  value: "v=DMARC1; p=quarantine;"
 "chaos.school":
   type: CNAME
   value: c6kglsbe.up.railway.app.
