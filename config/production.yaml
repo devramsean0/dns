@@ -30,8 +30,8 @@ zones:
       - config
     targets:
       - hetzner
-  hyperfocus.ing.:
-    sources:
-      - config
-    targets:
-      - cloudflare
+  #hyperfocus.ing.:
+  #  sources:
+  #    - config
+  #  targets:
+  #    - cloudflare
