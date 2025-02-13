@@ -8,9 +8,6 @@
 "cv-generator":
   type: CNAME
   value: devramsean0.github.io.
-"dedi1":
-  type: A
-  value: 37.27.59.187
 "otter":
   type: A
   value: 173.249.16.207
@@ -23,12 +20,6 @@
 "foxdot-script":
   type: CNAME
   value: devramsean0.github.io.
-"grafana":
-  type: A
-  value: 37.27.59.187
-"influxdb":
-  type: A
-  value: 37.27.59.187 
 "scrapbook":
   type: CNAME
   value: cname.vercel-dns.com.
@@ -118,6 +109,10 @@
 "v3":
   type: CNAME
   value: cname.vercel-dns.com.
+# Selfhosted Services
+"vw":
+  type: A
+  value: 130.162.170.199
 # Mail.so
 "envelope":
   - type: MX
