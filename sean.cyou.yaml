@@ -109,10 +109,10 @@
 "v3":
   type: CNAME
   value: cname.vercel-dns.com.
-# Selfhosted Services
-"vw":
+# Selfhosted Server (A slight design flaw is that it will only work on devices with tailscale. OOps)
+"network":
   type: A
-  value: 130.162.170.199
+  value: 100.108.142.22
 # Mail.so
 "envelope":
   - type: MX
