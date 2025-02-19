@@ -113,9 +113,9 @@
 "network":
   type: A
   value: 100.108.142.22
-"*.network":
+"vw":
   type: A
-  value: 100.108.142.22
+  value: 141.147.81.27
 # Mail.so
 "envelope":
   - type: MX
