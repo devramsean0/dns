@@ -119,6 +119,9 @@
 "vw":
   type: A
   value: 141.147.81.27
+"grafana":
+  type: A
+  value: 141.147.116.152
 # Mail.so
 "envelope":
   - type: MX
