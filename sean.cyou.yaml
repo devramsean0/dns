@@ -119,7 +119,7 @@
 "vw":
   type: A
   value: 141.147.81.27
-"grafana":
+"starling-slack":
   type: A
   value: 141.147.116.152
 # Mail.so
