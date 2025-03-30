@@ -122,6 +122,9 @@
 "starling-slack":
   type: A
   value: 141.147.116.152
+"darwin-rtt-ws":
+  type: A
+  value: 141.147.116.152
 # Mail.so
 "envelope":
   - type: MX
