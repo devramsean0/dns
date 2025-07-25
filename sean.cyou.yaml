@@ -128,6 +128,9 @@
 "darwin-rtt-ws":
   type: A
   value: 141.147.116.152
+"groupwisedocs": # Notify Greenfrog if removed
+  type: CNAME
+  value: devramsean0.github.io.
 # Mail.so
 "envelope":
   - type: MX
