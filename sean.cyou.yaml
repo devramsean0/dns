@@ -32,6 +32,9 @@
 "8bitproject":
   type: CNAME
   value: devramsean0.github.io.
+"beta":
+  type: A
+  value: 132.145.63.58
 "":
   - type: A
     value: 76.76.21.21
