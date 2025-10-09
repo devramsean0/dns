@@ -93,9 +93,6 @@
 "chaos.school":
   type: CNAME
   value: c6kglsbe.up.railway.app.
-"www":
-  type: CNAME
-  value: cname.vercel-dns.com.
 "status":
   type: CNAME
   value: devramsean0.github.io.
