@@ -40,7 +40,7 @@
   value: 141.147.105.226
 "":
   - type: A
-    value: 76.76.21.21
+    value: 141.147.105.226
     # Migadu/Custom email
   - type: TXT
     values:
