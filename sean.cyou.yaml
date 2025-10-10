@@ -52,6 +52,9 @@
         exchange: aspmx1.migadu.com.
       - preference: 20
         exchange: aspmx2.migadu.com.
+"www":
+  type: A
+  value: 141.147.105.226
 # Migadu/Custom email
 "key1._domainkey":
   type: CNAME
