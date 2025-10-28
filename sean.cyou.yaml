@@ -93,6 +93,9 @@
 "key3._domainkey.devices":
   type: CNAME
   value: key3.devices.sean.cyou._domainkey.migadu.com.
+"transactional-28-10-25._domainkey.transactional":
+  type: CNAME
+  value: transactional-28-10-25.transactional.sean.cyou.dkim.lhr1.oracleemaildelivery.com.  
 "chaos.school":
   type: CNAME
   value: c6kglsbe.up.railway.app.
