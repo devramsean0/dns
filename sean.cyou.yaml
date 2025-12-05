@@ -41,6 +41,9 @@
 "scoreboard.olp":
   type: A
   value: 141.147.105.226
+"grafana":
+  type: A
+  value: 141.147.105.226
 "":
   - type: A
     value: 141.147.105.226
