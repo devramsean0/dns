@@ -137,9 +137,6 @@
 "vw":
   type: A
   value: 79.72.86.240
-"immich":
-  type: A
-  value: 141.147.116.152
 "starling-slack":
   type: A
   value: 141.147.116.152
