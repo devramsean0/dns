@@ -44,6 +44,9 @@
 "grafana":
   type: A
   value: 79.72.86.240
+"immich":
+  type: A
+  value: 79.72.86.240
 "":
   - type: A
     value: 79.72.86.240
