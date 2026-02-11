@@ -26,11 +26,6 @@ zones:
       - config
     targets:
       - cloudflare
-  onhcb.info.:
-    sources:
-      - config
-    targets:
-      - hetzner
   #hyperfocus.ing.:
   #  sources:
   #    - config
