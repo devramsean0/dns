@@ -15,7 +15,7 @@ jobs:
         with:
           python-version: '3'
       - name: Install octodns
-        run: python -m pip install octodns octodns-hetzner octodns-cloudflare
+        run: python -m pip install octodns git+https://github.com/octodns/octodns-hetzner.git@main octodns-cloudflare
       - name: Sync w/ production DNS providers
         run: octodns-sync --config-file=./config/production.yaml --doit
         env:
