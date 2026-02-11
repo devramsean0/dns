@@ -13,6 +13,7 @@ providers:
   hetzner:
     class: octodns_hetzner.HetznerProvider
     token: env/HETZNER_TOKEN
+    backend: hcloud
 
 zones:
   sean.cyou.:
