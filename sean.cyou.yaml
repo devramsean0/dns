@@ -55,6 +55,7 @@
     values:
       - hosted-email-verify=scj5rhjb
       - v=spf1 include:spf.migadu.com -all
+      - google-site-verification=LP7zxruO9iiCC2UJio_sqKz3n267wmzVJnTOmnVddtI
   - type: MX
     values:
       - preference: 10
