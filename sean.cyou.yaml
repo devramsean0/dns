@@ -167,3 +167,6 @@
 "xkhgazy2ev77limtirrg4javqhqlcmr4._domainkey":
   type: CNAME
   value: xkhgazy2ev77limtirrg4javqhqlcmr4.dkim.amazonses.com.
+"cookbook":
+  type: CNAME
+  value: devramsean0.github.io.
