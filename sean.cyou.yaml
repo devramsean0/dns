@@ -34,22 +34,22 @@
   value: devramsean0.github.io.
 "beta":
   type: A
-  value: 79.72.86.240
+  value: 132.145.12.113
 "authentik":
   type: A
-  value: 79.72.86.240
+  value: 132.145.12.113
 "scoreboard.olp":
   type: A
-  value: 79.72.86.240
+  value: 132.145.12.113
 "grafana":
   type: A
-  value: 79.72.86.240
+  value: 132.145.12.113
 "immich":
   type: A
-  value: 79.72.86.240
+  value: 132.145.12.113
 "":
   - type: A
-    value: 79.72.86.240
+    value: 132.145.12.113
     # Migadu/Custom email
   - type: TXT
     values:
@@ -64,7 +64,7 @@
         exchange: aspmx2.migadu.com.
 "www":
   type: A
-  value: 79.72.86.240
+  value: 132.145.12.113
 # Migadu/Custom email
 "key1._domainkey":
   type: CNAME
@@ -137,7 +137,7 @@
   value: 100.108.142.22
 "vw":
   type: A
-  value: 79.72.86.240
+  value: 132.145.12.113
 "starling-slack":
   type: A
   value: 141.147.116.152
