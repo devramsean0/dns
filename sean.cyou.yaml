@@ -53,6 +53,12 @@
 "train-stations":
   type: A
   value: 132.145.12.113
+"ldap.auth":
+  type: A
+  value: 132.145.12.113
+"auth":
+  type: A
+  value: 132.145.12.113
 "":
   - type: A
     value: 132.145.12.113
