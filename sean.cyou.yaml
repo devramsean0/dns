@@ -62,6 +62,9 @@
 "wol":
   type: A
   value: 132.145.12.113
+"routeboard":
+  type: A
+  value: 132.145.12.113
 "":
   - type: A
     value: 132.145.12.113
